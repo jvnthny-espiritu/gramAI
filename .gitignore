@@ -170,5 +170,10 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+<<<<<<< HEAD
 
 # Dataset ignore
+=======
+# Dataset exclusion
+dataset/
+>>>>>>> 91a398c (Add dataset directory to .gitignore)
