@@ -13,7 +13,7 @@ def preprocess_images(
     target_size: Tuple[int, int] = (128, 128), 
     convert_grayscale: bool = False, 
     apply_augmentation: bool = True,
-    try_display: bool = False  # New parameter
+    try_display: bool = False
 ):
     """
     Preprocess images and apply efficient augmentations using OpenCV.
