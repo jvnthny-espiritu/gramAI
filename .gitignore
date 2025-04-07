@@ -175,3 +175,5 @@ data/
 
 *.npy
 *.pth
+*.json
+*.png
